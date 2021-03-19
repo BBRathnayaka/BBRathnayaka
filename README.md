@@ -71,5 +71,7 @@
 ### Certification 
       • AWS Certified Solution Architect - Associate
       • Red Hat Certified System Administrator (RHCSA)
+      • Fundamentals of Deep Learning for Computer Vision (NVIDIA) 
+      
 
 <br/>
