@@ -1,7 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px"> 
 <br/>
-<img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/nakulbhati.png"></h2>
-<br/>
 
 - I'm a DevOps Engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 - I'm a business-oriented technologist with 1+ years of experience in the area of Cloud & DevOps, Specializing in cloud infrastructure, virtualization & Networking.
@@ -13,10 +11,10 @@
   ###  Languages
 
       ☕ Java
+      🇨 C++
       🐍 Python
       🤖 Bash
       🦾 Power Shell
-      📦 Node.JS (Beginner)
       
 <br/>
 
@@ -29,7 +27,6 @@
 | • Git Hub                      | • Azure DevOps                       | • SoapUI                                   |
 | • Code Commit                  | • AWS Code Build                     | • Pester (Power Shell Module for testing ) |
 |                                | • Git Lab                            | • PostMan (API testing)                    |
-|                                | • Git Hub Action                     |                                            |
 |                                |                                      |                                            | 
        
      
@@ -69,7 +66,6 @@
       
       
 ### Certification 
-      • AWS Certified Solution Architect - Associate
       • Red Hat Certified System Administrator (RHCSA)
       • Fundamentals of Deep Learning for Computer Vision (NVIDIA) 
       
