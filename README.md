@@ -22,52 +22,35 @@
              
 | Version Control                | Continuous Integration               | Automated Testing                          |
 |--------------------------------|--------------------------------------|--------------------------------------------|
-| :---                           | :---                                 | :---                                       |
 | • Git Lab                      | • Jenkins                            | • Selenium                                 |
-| • Git Hub                      | • Azure DevOps                       | • SoapUI                                   |
-| • Code Commit                  | • AWS Code Build                     | • Pester (Power Shell Module for testing ) |
-|                                | • Git Lab                            | • PostMan (API testing)                    |
-|                                |                                      |                                            | 
+| • Git Hub                      | • Git Lab                            |                                            |
+|                                | • AWS Code Build                     |                                            |
        
      
 | Continuous Deployment          | DevSecOps                            | Automation                                 |
 |--------------------------------|--------------------------------------|--------------------------------------------|
-| :---                           | :---                                 | :---                                       |
 | • Azure DevOps                 | • Qualys                             | • Terraform (IAAC)                         |
 | • GitLab                       | • CodeQL Analysis                    | • Ansible                                  |
-| • Code Deploy                  | • snyk                               | • Pulumi                                   |
-| • Octopus                      | • Sqreen                             | • MAAS (Ubuntu)                            |
 | • Ansible                      |                                      |                                            |
-| • Spinnaker                    |                                      |                                            |
       
       
 | Cloud Computing                | Container Technology &emsp; &emsp;   | Operating System                           |
 |--------------------------------|--------------------------------------|--------------------------------------------|
-| :---                           | :---                                 | :---                                       |
 | • AWS                          | • EKS/ECS                            | • Windows                                  |
 | • Azure                        | • OpenShift                          | • Red Hat                                  |
 | • GCP                          | • Docker                             | • Suse                                     |
-| • OpenStack                    | • Kubernetes                         | • Ubuntu                                   |
-|                                | • AKS/ACS                            | • Kali Linux                               |
+|                                | • Kubernetes                         | • Ubuntu                                   |
+|                                |                                      | • Kali Linux                               |
 |                                |                                      | • Mac OS                                   |
                                                                                                                       
                                                                                                                       
-                                                                                                                      
-                                                          
 | Network Tools                  | Monitoring tools                     | Log management                             | 
 |--------------------------------|--------------------------------------|--------------------------------------------|
-|:---                            |:---                                  |:---                                        |
-| • Wire shark                   | • PRTG                               | • ELK                                      |
-| • Tcpdump                      | • Prometheus                         | • FluentD                                  |
+| • Wire shark                   | • Prometheus                         | • ELK                                      |
+| • Tcpdump                      | • Zabbix                             | • FluentD                                  |
 |                                | • Zabbix                             | • Splunk                                   |
-|                                | • Netwrix Auditor                    |                                            |
-|                                | • Sensu                              |                                            |  
-      
-      
       
 ### Certification 
-      • Red Hat Certified System Administrator (RHCSA)
       • Fundamentals of Deep Learning for Computer Vision (NVIDIA) 
       
-
 <br/>
